@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @radon1c
+- 👀 I’m interested in `Coding & Programming`.
+- 🌱 I’m currently learning `Nuxt & Vue`.
+- 💞️ I’m looking to collaborate on `Nothing (at the moment)`.
+- 📫 How to reach me: `@radon1c on Discord`.
+- 😄 Pronouns: `Take a guess? (he/him)`.
+- ⚡ Fun fact: `Make something up?`
